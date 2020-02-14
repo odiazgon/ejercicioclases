@@ -1,2 +1,4 @@
-import personaje
+from personaje import *
+
+personaje1=personaje(4)
 
